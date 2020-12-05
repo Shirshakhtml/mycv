@@ -7,6 +7,18 @@
   font-family: 'Sacramento','Tangerine';
   line-height: 2;
 }
+@media only screen and (max-margin-left:400px)
+{
+  .bottom-cloud{
+    position: absolute;
+    left:300px;
+  }
+  .top-cloud{
+    padding-top: 20px;
+    position: relative;
+    left:330px;
+  }
+}
 body{
   margin: 0;
   text-align: center;
