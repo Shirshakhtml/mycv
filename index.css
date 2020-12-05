@@ -7,7 +7,7 @@
   font-family: 'Sacramento','Tangerine';
   line-height: 2;
 }
-@media only screen and (max-margin-left:400px)
+@media only screen and (max-width:400px)
 {
   .bottom-cloud{
     position: absolute;
